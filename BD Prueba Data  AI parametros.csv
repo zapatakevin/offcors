@@ -1,10 +1,10 @@
-ï»¿Centro;Tienda;Ciudad;Clima
+Centro;Tienda;Ciudad;Clima
 T013;Tda Chipichape 2;Cali;C
 T014;Tda El Tesoro;Medellin;M
 T024;Tda San Diego;Medellin;M
-T025;Tda SantaFe Bog.;BogotÃ¡;F
-T049;Tda Calima Bogota.;BogotÃ¡;F
-T012;Tda Centro Mayor;BogotÃ¡;F
+T025;Tda SantaFe Bog.;Bogotÿ;F
+T049;Tda Calima Bogota.;Bogotÿ;F
+T012;Tda Centro Mayor;Bogotÿ;F
 T083;Tda San Andres 2;San andres;C
 T019;Tda Palmetto;Cali;C
 T016;Tda Jardin Plaza;Cali;C
@@ -12,34 +12,34 @@ T018;Tda Oviedo 2;Medellin;M
 T026;Tda SantaFe Med.;Medellin;M
 T017;Tda Los Molinos;Medellin;M
 T067;Tda Mayorca;Medellin;M
-T027;Tda TitÃ¡n Plaza;BogotÃ¡;F
-T020;Tda Plaza Americas;BogotÃ¡;F
-T044;Tda Plaza Imperial;BogotÃ¡;F
-T015;Tda Gran EstaciÃ³n;BogotÃ¡;F
+T027;Tda Titÿn Plaza;Bogotÿ;F
+T020;Tda Plaza Americas;Bogotÿ;F
+T044;Tda Plaza Imperial;Bogotÿ;F
+T015;Tda Gran Estaci½n;Bogotÿ;F
 T055;Tda Plaza Ipiales;Ipiales;F
-T076;Tda Plaza Central;BogotÃ¡;F
+T076;Tda Plaza Central;Bogotÿ;F
 T045;Tda Viva Villavicenc;Villavicencio;C
 T029;Tda Unicentro Cali;Cali;C
 T057;Tda Cosmocentro Cali;Cali;C
 T071;Tda Primavera Villav;Villavicencio;C
-T064;Tda Nuestro UrabÃ¡;Apartado;C
+T064;Tda Nuestro Urabÿ;Apartado;C
 T056;Tda Unicent Girardot;Girardot;C
 T089;Tda Llanogrande Plza;Palmira;C
 T092;Tda Nuestro Cartago;Cartago;C
 T090;Tda Guacari;Sincelejo;C
 T093;Tda Arkadia;Medellin;M
 T084;Tda Viva Envigado;Medellin;M
-T035;Tda Diverplaza;BogotÃ¡;F
+T035;Tda Diverplaza;Bogotÿ;F
 T022;Tda San Nicolas;Rionegro;F
 T091;Tda Jardines;Llanogrande;F
-T048;Tda Tintal bogt.;BogotÃ¡;F
-T070;Tda Portal 80;BogotÃ¡;F
-T010;Tda Andino;BogotÃ¡;F
-T077;Tda La Colina;BogotÃ¡;F
-T080;Tda La Felicidad;BogotÃ¡;F
-T047;Tda Hayuelos bogt.;BogotÃ¡;F
-T095;Tda Plaza Claro;BogotÃ¡;F
-T096;Tda Paseo Villa;BogotÃ¡;F
+T048;Tda Tintal bogt.;Bogotÿ;F
+T070;Tda Portal 80;Bogotÿ;F
+T010;Tda Andino;Bogotÿ;F
+T077;Tda La Colina;Bogotÿ;F
+T080;Tda La Felicidad;Bogotÿ;F
+T047;Tda Hayuelos bogt.;Bogotÿ;F
+T095;Tda Plaza Claro;Bogotÿ;F
+T096;Tda Paseo Villa;Bogotÿ;F
 T062;Tda Alcaravan Yopal;Yopal;C
 T063;Tda Quinta Estacion;Yopal;C
 T066;Tda Fontanar;Chia;F
